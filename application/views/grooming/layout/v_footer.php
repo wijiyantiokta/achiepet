@@ -56,7 +56,7 @@
       	<div class="block-23 mb-3">
       		<ul>
       			<li><span class="icon fa fa-map"></span><span class="text">Jl. Monjali No.40 D, Gemangan, Sinduadi, Mlati, Sleman, Daerah Istimewa Yogyakarta 55284</span></li>
-      			<li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+62852-5358-7600</span></a></li>
+      			<li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+628XXXXXXXXX</span></a></li>
       			<!-- <li><a href="#"><span class="icon fa fa-paper-plane"></span><span class="text">info@yourdomain.com</span></a></li> -->
       		</ul>
       	</div>
